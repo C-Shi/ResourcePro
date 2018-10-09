@@ -1,4 +1,5 @@
-# Node Skeleton
+# Resourcists
+This is a full stack pintrest-liked project that allow users to share post
 
 ## Project Setup
 
