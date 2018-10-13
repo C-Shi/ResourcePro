@@ -5,26 +5,26 @@ This is a full stack pintrest-liked project that allow users to share, rate and 
 ### Views Resources and Comments
 * Users/Visitors are able to view and search existing resources and their comments
 * Users/Visitors are able to visit the resource site through ResourcePro
-* Resources are open to all visitors including guests
+* Resources are open to all visitors including guests <br/>
 ![1](./docs/view_search.gif)
 
 ### User Registeration and Login
 * Visitors are able to register a new account and start contributing
 * Returning user is able to login with correct password
-* Registeration for email is unique
+* Registeration for email is unique <br/>
 ![2](./docs/user_auth.gif)
 
 
 ### Resources specific feature
 * User is able to add one/more comment on a resource
 * User is able to rate a resource at most one time
-* User is able to like/unlike a resource
+* User is able to like/unlike a resource <br/>
 ![3](./docs/resource_specific.gif)
 
 ### User specific feature
 * User is able to view and modify his/her profile
 * User is able to add a new resource
-* User is able to view all the resource he/she posted or liked
+* User is able to view all the resource he/she posted or liked <br/>
 ![4](./docs/user_specific.gif)
 
 ### UI/UX feature
@@ -32,7 +32,7 @@ This is a full stack pintrest-liked project that allow users to share, rate and 
 * Masonry-like two-dimentional layout
 * Modernized Navigation Bar with icon and tooltip
 * Animated Scrolling effect and fade-in effect on resources board
-* Custom Flashing message for every success and error action
+* Custom Flashing message for every success and error action <br/>
 ![5](./docs/ui_ux.gif)
 
 ## Getting Started
