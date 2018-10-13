@@ -6,21 +6,25 @@ This is a full stack pintrest-liked project that allow users to share, rate and 
 * Users/Visitors are able to view and search existing resources and their comments
 * Users/Visitors are able to visit the resource site through ResourcePro
 * Resources are open to all visitors including guests
+![1](./docs/view_search.gif)
 
 ### User Registeration and Login
 * Visitors are able to register a new account and start contributing
 * Returning user is able to login with correct password
 * Registeration for email is unique
+![2](./docs/user_reg_login.gif)
 
 ### Resources specific feature
 * User is able to add one/more comment on a resource
-* User is able to delete his/her own comment
 * User is able to rate a resource at most one time
 * User is able to like/unlike a resource
+![3](./docs/resource_specific.gif)
 
 ### User specific feature
 * User is able to view and modify his/her profile
+* User is able to add a new resource
 * User is able to view all the resource he/she posted or liked
+![4](./docs/user_specific.gif)
 
 ### UI/UX feature
 * Animated landing page with count-up effect of totla number of users
@@ -28,6 +32,7 @@ This is a full stack pintrest-liked project that allow users to share, rate and 
 * Modernized Navigation Bar with icon and tooltip
 * Animated Scrolling effect and fade-in effect on resources board
 * Custom Flashing message for every success and error action
+![5](./docs/ui_ux.gif)
 
 ## Getting Started
 1. Clone this project to your local machine, make sure you have NodeJS, npm and PostgreSQL install
@@ -40,6 +45,11 @@ This is a full stack pintrest-liked project that allow users to share, rate and 
   - Check the seeds file to see what gets seeded in the DB
 7. Run the server: `npm run local`
 8. Visit `http://localhost:8080/`
+
+## Future Improvement Possibility
+1. Password Reset Feature
+2. Allow user to upload screenshot when creating resource
+
 
 ## Dependencies
 
