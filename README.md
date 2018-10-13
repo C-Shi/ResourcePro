@@ -12,8 +12,8 @@ This is a full stack pintrest-liked project that allow users to share, rate and 
 * Visitors are able to register a new account and start contributing
 * Returning user is able to login with correct password
 * Registeration for email is unique
+![2](./docs/user_auth.gif)
 
-![2](./docs/user_reg_login.gif)
 
 ### Resources specific feature
 * User is able to add one/more comment on a resource
